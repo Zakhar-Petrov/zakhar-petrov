@@ -1,3 +1,5 @@
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/z-petrov) [![Telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label)](http://t.me/zpetrov)
+
 ### Hi there 👋
 
 <!--
